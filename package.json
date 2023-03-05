@@ -1,6 +1,6 @@
 {
-  "name": "typescript-library-template",
-  "description": "",
+  "name": "ts-library-demo",
+  "description": "A typescript library demo",
   "private": true,
   "scripts": {
     "postinstall": "preconstruct dev",
